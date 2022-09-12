@@ -10,6 +10,11 @@ _(想想 [ExplorerX](https://github.com/Stars-sea/ExplorerX) 还是初二时的�
 
 ## 💻 作品
 
+🖼️ [DynamicDesktop](https://github.com/Stars-sea/DynamicDesktop): 
+动态壁纸设置软件 (WinUI3)
+
+[![DynamicDesktop](https://github-readme-stats.vercel.app/api/pin/?username=Stars-sea&repo=DynamicDesktop)](https://github.com/Stars-sea/DynamicDesktop)
+
 📄 [ExplorerX](https://github.com/Stars-sea/ExplorerX): 
 也许将来是个能干的文件管理器?
 
@@ -31,5 +36,3 @@ _(想想 [ExplorerX](https://github.com/Stars-sea/ExplorerX) 还是初二时的�
 
 * E-mail: [Stars_sea@outlook.com](mailto:Stars_sea@outlook.com)
 * Bilibili: [@Stars_sea](https://space.bilibili.com/329963941)
-* Organization's Blog: https://shade-man.github.io
-* ~~Github: 原地 tp~~
